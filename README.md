@@ -2,6 +2,7 @@
 
 I'm **Eliyahu Yadegari** – an efficient, motivated software developer with a strong work ethic and a passion for creating high-quality solutions.  
 Quick to learn and eager to innovate, I have hands-on experience in **full-stack development** and **machine learning**.
+I am currently seeking a **Software Development position** where I can contribute my skills and continue to grow.
 
 ---
 
@@ -40,10 +41,5 @@ Quick to learn and eager to innovate, I have hands-on experience in **full-stack
 ![Eliyahu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliyahuYadegari&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliyahuYadegari&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=EliyahuYadegari&color=blue&style=flat-square)
-
----
-
-### 🚀 Let's Connect!
-I'm always open to interesting discussions and collaborations. Feel free to reach out if you have an exciting project, want to exchange ideas, or need any assistance in tech!
 
 ---
