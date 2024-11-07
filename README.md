@@ -2,6 +2,7 @@
 
 I'm **Eliyahu Yadegari** – an efficient, motivated software developer with a strong work ethic and a passion for creating high-quality solutions.  
 Quick to learn and eager to innovate, I have hands-on experience in **full-stack development** and **machine learning**.
+
 I am currently seeking a **Software Development position** where I can contribute my skills and continue to grow.
 
 ---
